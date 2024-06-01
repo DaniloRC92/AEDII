@@ -19,3 +19,5 @@ As I go along, I'll post the rest of the content :hourglass:
 
 >[!NOTE]
 > The folders, including class names, variables and exercises are in Portuguese. I'll soon compile them in English :sweat_smile:
+
+Danilo Ramos - AEDII - 2024
